@@ -64,7 +64,7 @@ const POINT_PROPS = [
     'direccion',
     'localidad',
     'barrio',
-    'estrata',
+    'estrato',
     'persona_encargada',
     'cargo',
     'telefono',
